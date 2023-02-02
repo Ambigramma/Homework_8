@@ -1,0 +1,15 @@
+C:\Users\keyan\Desktop\Homework_8\Task58\bin\Debug\net7.0\Task58.exe
+C:\Users\keyan\Desktop\Homework_8\Task58\bin\Debug\net7.0\Task58.deps.json
+C:\Users\keyan\Desktop\Homework_8\Task58\bin\Debug\net7.0\Task58.runtimeconfig.json
+C:\Users\keyan\Desktop\Homework_8\Task58\bin\Debug\net7.0\Task58.dll
+C:\Users\keyan\Desktop\Homework_8\Task58\bin\Debug\net7.0\Task58.pdb
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\Task58.csproj.AssemblyReference.cache
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\Task58.AssemblyInfoInputs.cache
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\Task58.AssemblyInfo.cs
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\Task58.csproj.CoreCompileInputs.cache
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\Task58.dll
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\refint\Task58.dll
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\Task58.pdb
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\Task58.genruntimeconfig.cache
+C:\Users\keyan\Desktop\Homework_8\Task58\obj\Debug\net7.0\ref\Task58.dll
